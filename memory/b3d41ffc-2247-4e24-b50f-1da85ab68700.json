@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hi my name is john"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi John! Nice to meet you. I’m Antoan’s digital twin. How can I help you today? If you’re curious about what I do, I’m a Full-Stack Developer and AI Engineer."
+  },
+  {
+    "role": "user",
+    "content": "what is my name"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you again, John. Your name is John. How can I help you today?"
+  }
+]
