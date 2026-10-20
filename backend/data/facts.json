@@ -1,0 +1,17 @@
+{
+  "full_name": "Antoan Petrov",
+  "name": "Antoan",
+  "current_role": "Full Stack Developer",
+  "location": "Sofia / Bulgaria",
+  "email": "your.email@example.com",
+  "linkedin": "https://www.linkedin.com/in/antoan-petrov-44632b218",
+  "specialties": ["JavaScript", "Node.js", "PHP", "Vue"],
+  "years_experience": 4,
+  "education": [
+    {
+      "degree": "JS Web Path",
+      "institution": "SoftUni",
+      "year": "2020"
+    }
+  ]
+}
