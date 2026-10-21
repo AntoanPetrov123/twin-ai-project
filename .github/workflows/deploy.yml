@@ -36,6 +36,13 @@ jobs:
           role-session-name: github-actions-deploy
           aws-region: ${{ secrets.DEFAULT_AWS_REGION }}
 
+      - name: Show GitHub repository IDs
+        run: |
+          echo "Owner ID: ${{ github.repository_owner_id }}"
+          echo "Repository ID: ${{ github.repository_id }}"
+          echo "Repository: ${{ github.repository }}"
+          echo "Branch: ${{ github.ref }}"
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
