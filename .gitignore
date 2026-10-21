@@ -14,7 +14,7 @@ lambda-deployment.zip
 lambda-package/
 
 # Memory storage (contains conversation history)
-memory/
+# memory/
 
 # ==========================================
 # ENVIRONMENT VARIABLES & SECRETS
